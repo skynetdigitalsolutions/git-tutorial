@@ -8,7 +8,10 @@ const profile = {
     age:20,
     course:'Software Engineering',
     hobbies: ['Coding', 'Gaming', 'Travelling'],
-    industry:'Digital Solutions'
+    industry:'Digital Solutions',
+    sex:'Male',
+    location:'Kampala'
 }
 
 console.log(profile);
+
