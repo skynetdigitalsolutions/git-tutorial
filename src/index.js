@@ -8,7 +8,8 @@ const profile = {
     age:20,
     course:'Software Engineering',
     hobbies: ['Coding', 'Gaming', 'Travelling'],
-    industry:'Digital Solutions'
+    industry:'Digital Solutions',
+    Reachout:'github.com/MpagiWilliam',
 }
 
 console.log(profile);
